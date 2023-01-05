@@ -1,0 +1,10 @@
+WIDTH = 1400
+HEIGHT = 700
+GRID_SIZE = 6
+CELLS_COUNT = GRID_SIZE**2
+NUM_MINES = (GRID_SIZE **2) // 4
+
+BG_COLOR = 'light blue'
+TITLE_FONT_COLOR = 'blue'
+FONT_COLOR = 'grey'
+
